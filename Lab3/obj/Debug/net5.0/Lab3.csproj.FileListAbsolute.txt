@@ -1,0 +1,15 @@
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/Lab3.deps.json
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/Lab3.runtimeconfig.json
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/Lab3.runtimeconfig.dev.json
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/Lab3.dll
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/ref/Lab3.dll
+/Users/darriushorton/Projects/Lab3/Lab3/bin/Debug/net5.0/Lab3.pdb
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.csprojAssemblyReference.cache
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.AssemblyInfoInputs.cache
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.AssemblyInfo.cs
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.dll
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/ref/Lab3.dll
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.pdb
+/Users/darriushorton/Projects/Lab3/Lab3/obj/Debug/net5.0/Lab3.genruntimeconfig.cache
